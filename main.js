@@ -23,6 +23,9 @@ const pool = mariadb.createPool({
 
 
 
+teste
+
+
 
 
 
