@@ -76,7 +76,7 @@ radio.forEach(((e, s) => {
 
 
 
-    const targetDate = new Date('2023/06/22 14:15:00').getTime();
+    const targetDate = new Date('2023/06/21 14:15:00').getTime();
 //targetDate.setHours(targetDate.getHours() + 2);
 
 function getTimeSegmentElements(segmentElement) {
